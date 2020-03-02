@@ -1,8 +1,5 @@
 # Nodebooks em Java
 
-
-[![Launch IJava binder][binder-badge-img]](https://mybinder.org/v2/gh/SpencerPark/ijava-binder/master) [![Launch IJava lab binder][binder-lab-badge-img]](https://mybinder.org/v2/gh/SpencerPark/ijava-binder/master?urlpath=lab)
-
 Um repositório compatível com um [Binder](https://mybinder.org/) do Jupyter permite a execução dos scritps disponíveis em uma determinada linguagem. O binder Java usado é o [IJava](https://github.com/SpencerPark/IJava). Se a imagem Docker do repositório está (ou não) construída, a primeira criação do notebook poderá demorar.
 
 | Repositório Notebook | Link online |
