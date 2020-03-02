@@ -1,4 +1,4 @@
-# ijava-binder
+# Nodebooks em Java
 
 
 [![Launch IJava binder][binder-badge-img]](https://mybinder.org/v2/gh/SpencerPark/ijava-binder/master) [![Launch IJava lab binder][binder-lab-badge-img]](https://mybinder.org/v2/gh/SpencerPark/ijava-binder/master?urlpath=lab)
@@ -8,6 +8,10 @@ Um repositório compatível com um [Binder](https://mybinder.org/) do Jupyter pe
 | Repositório Notebook | Link online |
 |:------------|:-------------|
 | https://github.com/Marcosddf/programacaojava/ | [![Notebook com exemplos simples em Java][binder-badge-img]](https://mybinder.org/v2/gh/Marcosddf/programacaojava/master) [![Notebook Lab com exemplos simples em Java][binder-lab-badge-img]](https://mybinder.org/v2/gh/Marcosddf/programacaojava/master?urlpath=lab) |
+
+## Execução
+
+Para a execução do binder, é possível selecionar um Notebook padrão, ou escolher um Notebook Lab, com algumas funcionalidades extras. Deve ser selecionada a linguagem Java. 
 
 ## Cópia do repositório
 
