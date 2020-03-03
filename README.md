@@ -1,4 +1,4 @@
-Esta página tem como objetivo apresentar conceitos de orientação a objeto ilustrados na linguagem Java. Não irá descrever todos os detalhes de implementação da linguagem.
+Esta página tem como objetivo apresentar conceitos de orientação a objeto ilustrados na linguagem Java. Não irá descrever todos os detalhes de implementação da linguagem. Para isto tutoriais específicos da linguagem são mais adequados.
 
 # Nodebooks em Java
 
