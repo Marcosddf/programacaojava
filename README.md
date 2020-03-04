@@ -21,27 +21,27 @@ Para a execução local, os seguintes passos são necessários:
 
 1. Instalação do Docker ( o usuário deve ser root da máquina ): 
 
-  sudo apt-get install docker
+    sudo apt-get install docker
   
 2. Baixar o repositório inteiro e descompactar em um diretório local.
 
 3. Adicionar permissões de execução para os scripts 'build.sh' e 'run.sh'.
 
-  chmod +x build.sh
-  chmod +x run.sh
+    chmod +x build.sh
+    chmod +x run.sh
   
 4. Criar e executar a imagem local:
 
-  ./build.sh
-  ./run.sh
+    ./build.sh
+    ./run.sh
   
 5. Buscar o link do Jupyter que deverá ser acessado localmente:
 
-  'docker ps'
+    'docker ps'
 
 6. O comando acima irá retornar as imagens que estão sendo executadas na máquina, sendo que cada imagem tem um nome específico. A imagem com o Jupyter é a 'bccparadigmas:1.0'. O nome pode variar, está descrito na coluna NAME. Executar o comando abaixo, substituindo o valor de NOME_IMAGEM:
 
-  docker exec -it NOME_IMAGEM jupyter notebook list
+    docker exec -it NOME_IMAGEM jupyter notebook list
 
 7. Usar a URL listada para acessar o Jupyter local. Um exemplo de URL será: 'http://0.0.0.0:8888/?token=f09c46f92edad47ce54524c7beb2c7c4bdee04f987d4f849'
   
