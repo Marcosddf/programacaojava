@@ -14,18 +14,18 @@ Este repositório está sendo usado como material de apoio para disciplina __CI1
 
 A lista abaixo contém uma ordem sugerida de aprendizado.
 
-- ClassePessoa.ipynb
-- Classes e instâncias.ipynb
-- Métodos de instância.ipynb
-- Múltiplas instâncias e listas.ipynb
-- Atributos e métodos de classe.ipynb
-- Herança.ipynb
-- Polimorfismo.ipynb
-- Classes abstratas.ipynb
-- Calculadora.ipynb
-- Interfaces.ipynb
-- API Reflection.ipynb
-- Tipos genéricos e parametrização.ipynb
+- [ClassePessoa.ipynb](https://github.com/Marcosddf/programacaojava/blob/master/ClassePessoa.ipynb)
+- [Classes e instâncias.ipynb](https://github.com/Marcosddf/programacaojava/blob/master/Classes%20e%20inst%C3%A2ncias.ipynb)
+- [Métodos de instância.ipynb](https://github.com/Marcosddf/programacaojava/blob/master/M%C3%A9todos%20de%20inst%C3%A2ncia.ipynb)
+- [Múltiplas instâncias e listas.ipynb](https://github.com/Marcosddf/programacaojava/blob/master/M%C3%BAltiplas%20inst%C3%A2ncias%20e%20listas.ipynb)
+- [Atributos e métodos de classe.ipynb](https://github.com/Marcosddf/programacaojava/blob/master/Atributos%20e%20m%C3%A9todos%20de%20classe.ipynb)
+- [Herança.ipynb](https://github.com/Marcosddf/programacaojava/blob/master/Heran%C3%A7a.ipynb)
+- [Polimorfismo.ipynb](https://github.com/Marcosddf/programacaojava/blob/master/Polimorfismo.ipynb)
+- [Classes abstratas.ipynb](https://github.com/Marcosddf/programacaojava/blob/master/Classes%20abstratas.ipynb)
+- [Calculadora.ipynb](https://github.com/Marcosddf/programacaojava/blob/master/Calculadora.ipynb)
+- [Interfaces.ipynb](https://github.com/Marcosddf/programacaojava/blob/master/Interfaces.ipynb)
+- [API Reflection.ipynb](https://github.com/Marcosddf/programacaojava/blob/master/API%20Reflection.ipynb)
+- [Tipos genéricos e parametrização.ipynb](https://github.com/Marcosddf/programacaojava/blob/master/Tipos%20gen%C3%A9ricos%20e%20parametriza%C3%A7%C3%A3o.ipynb)
 
 
 ## Cópia do repositório
