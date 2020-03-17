@@ -8,6 +8,10 @@ Um repositório compatível com um [Binder](https://mybinder.org/) do Jupyter pe
 |:------------|:-------------|
 | https://github.com/Marcosddf/programacaojava/ | [![Notebook com exemplos simples em Java][binder-badge-img]](https://mybinder.org/v2/gh/Marcosddf/programacaojava/master) |
 
+## Disciplina de paradigma de programação orientado a objeto
+
+Este repositório está sendo usado como material de apoio para disciplina do Departamento de Informática de UFPR - CI1062 - Paradigmas de Programação. Sugestões, ajustes e contribuições são bem-vindas.
+
 
 ## Cópia do repositório
 
