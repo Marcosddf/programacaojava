@@ -10,7 +10,22 @@ Um repositório compatível com um [Binder](https://mybinder.org/) do Jupyter pe
 
 ## Disciplina de paradigma de programação orientado a objeto
 
-Este repositório está sendo usado como material de apoio para disciplina do Departamento de Informática de UFPR - CI1062 - Paradigmas de Programação. Sugestões, ajustes e contribuições são bem-vindas.
+Este repositório está sendo usado como material de apoio para disciplina __CI1062 - Paradigmas de Programação__ do Departamento de Informática de UFPR. Sugestões, ajustes e contribuições são bem-vindos.
+
+A lista abaixo contém uma ordem sugerida de aprendizado.
+
+- ClassePessoa.ipynb
+- Classes e instâncias.ipynb
+- Métodos de instância.ipynb
+- Múltiplas instâncias e listas.ipynb
+- Atributos e métodos de classe.ipynb
+- Herança.ipynb
+- Polimorfismo.ipynb
+- Classes abstratas.ipynb
+- Calculadora.ipynb
+- Interfaces.ipynb
+- API Reflection.ipynb
+- Tipos genéricos e parametrização.ipynb
 
 
 ## Cópia do repositório
