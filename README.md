@@ -1,6 +1,6 @@
 Esta página tem como objetivo apresentar conceitos de orientação a objeto ilustrados na linguagem Java. Não irá descrever todos os detalhes de implementação da linguagem. Para isto tutoriais específicos da linguagem são mais adequados.
 
-# Nodebooks em Java
+# Notebooks em Java
 
 Um repositório compatível com um [Binder](https://mybinder.org/) do Jupyter permite a execução dos scritps disponíveis em uma determinada linguagem. O binder Java usado é o [IJava](https://github.com/SpencerPark/IJava). Se a imagem Docker do repositório está (ou não) construída, a primeira criação do notebook poderá demorar.
 
