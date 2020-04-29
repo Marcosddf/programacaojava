@@ -49,11 +49,13 @@ Para a execução local, os seguintes passos são necessários:
 4. Adicionar permissões de execução para os scripts `build.sh` e `run.sh`.
 
     ``chmod +x build.sh``
+    
     ``chmod +x run.sh``
   
 5. Criar e executar a imagem local:
 
     ``./build.sh``
+    
     ``./run.sh``
   
 6. Buscar o link do Jupyter que deverá ser acessado localmente:
