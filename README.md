@@ -48,15 +48,15 @@ Para a execução local, os seguintes passos são necessários:
 
 4. Adicionar permissões de execução para os scripts `build.sh` e `run.sh`.
 
-    ``chmod +x build.sh``
+    `chmod +x build.sh`
     
-    ``chmod +x run.sh``
+    `chmod +x run.sh`
   
 5. Criar a imagem local:
 
-``./build.sh``
+`./build.sh`
 
-5.1 Execução da imagem `sob demanda` 
+### 5.1 Execução da imagem `sob demanda` 
 
 O caminho completo (opção -v) indica o caminho LOCAL onde estarão os arquivos com os notebooks. Caso não seja especificado caminho, usará os arquivos criados no container.
 
@@ -64,19 +64,19 @@ O caminho completo (opção -v) indica o caminho LOCAL onde estarão os arquivos
 
 No console de execução, abrir a URL no navegador. A URL terá um formato semelhante a este: http://127.0.0.1:8888/?token=5b06eca722e03a9dc1685b7e9ba6a4c38cf71c97fb411079. O link abrirá o Jupyter, e os notebooks estarão no diretório **notebooks**.
     
-5.2 Execução da imagem `detachada`
+### 5.2 Execução da imagem `detachada`
 
 Neste caso, a imagem ficará sempre executando. Os comandos são
     
-    ``./run.sh``
-  
+    `./run.sh`
+    
 5.2.1 Buscar o link do Jupyter que deverá ser acessado localmente:
 
-    ``docker ps``
+    `docker ps`
 
 5.2.2 O comando acima irá retornar as imagens que estão sendo executadas na máquina, sendo que cada imagem tem um nome específico. A imagem com o Jupyter é a 'bccparadigmas:1.0'. O nome pode variar, está descrito na coluna NAME. Executar o comando abaixo, substituindo o valor de NOME_IMAGEM:
 
-    ``docker exec -it NOME_IMAGEM jupyter notebook list``
+    `docker exec -it NOME_IMAGEM jupyter notebook list`
 
 5.2.3 Usar a URL listada para acessar o Jupyter local. Um exemplo de URL será: 'http://0.0.0.0:8888/?token=f09c46f92edad47ce54524c7beb2c7c4bdee04f987d4f849'
   
